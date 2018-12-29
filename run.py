@@ -4,10 +4,7 @@ from __future__ import print_function
 
 import os
 import sys
-import time
-import logging
-import tempfile
-import traceback
+import tim
 import subprocess
 
 from shutil import disk_usage, rmtree
